@@ -1,0 +1,13 @@
+div.content {
+  font-family: VarelaRound,NxieOne,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+  color: #617a86;
+  text-align: center;
+  position: relative;
+}
+
+div.content h1 {
+  font-family: NxieOne,VarelaRound,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+  font-size: 32px;
+  font-weight: normal;
+  padding-top: 10px;
+}
